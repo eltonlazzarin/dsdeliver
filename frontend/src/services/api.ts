@@ -3,7 +3,7 @@ import axios from 'axios';
 const mapboxToken = process.env.REACT_APP_ACCESS_TOKEN_MAP_BOX;
 
 const api = axios.create({
-  baseURL: 'https://dsdeliver-sprint-api.herokuapp.com',
+  baseURL: process.env.REACT_APP_API_URL,
 });
 
 export function fetchLocalMapBox(local: string) {
