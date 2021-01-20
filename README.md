@@ -196,7 +196,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 ## 🚀 Mobile Technologies
 
 <h1 align="center">
-	<img alt="Mobile Application" src="https://github.com/eltonlazzarin/dsdeliver/blob/main/screenshots/dsdeliveryMobile.gif" />
+	<img alt="Mobile Application" src="https://github.com/eltonlazzarin/dsdeliver/blob/main/screenshots/dsdeliveryMobile.gif" hight="380" width="350" />
 </h1>
 
 Technologies that I used to develop this mobile app
