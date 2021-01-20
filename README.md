@@ -1,10 +1,6 @@
-# dsdeliver
-
-Project DSDeliver
-
-<h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/dsdeliver/blob/main/mobile/src/assets/images/map-marker%402x.png" />
-</h1>
+<!--h1 align="center">
+	<img alt="Logo" src="" />
+</h1-->
 
 <h3 align="center">
   DSDeliver is an application developed for customers to place orders for food by delivery
